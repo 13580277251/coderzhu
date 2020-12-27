@@ -1,0 +1,22 @@
+{
+  "name": "coderzhu123",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "coderzhu123": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["coderzhu123"],
+  "author": "coderzhu123",
+  "license": "ISC",
+  "homepage": "",
+  "repository": {},
+  "dependencies": {
+    "commander": "^6.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5"
+  }
+}
